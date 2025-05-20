@@ -70,8 +70,8 @@ public class Coding : MonoBehaviour
 ```
 ## Output:
 
-![alt text](<Screenshot 2025-05-20 120645.png>)
-![alt text](<Screenshot 2025-05-20 120657.png>)
+![alt text](<Screenshot 2025-05-20 204656.png>)
+![alt text](<Screenshot 2025-05-20 204643.png>)
 
 ## Result:
 
